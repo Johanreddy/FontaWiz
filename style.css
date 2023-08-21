@@ -1,0 +1,19 @@
+body
+{
+   background: cyan;
+}
+
+.btn-info
+{
+    background: white;
+    color:blue;
+}
+heading 
+{
+    box-shadow: 10px 15px 5px gray;
+}
+h3
+{
+    background: pink;
+    color:blue;
+}
